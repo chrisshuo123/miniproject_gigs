@@ -1,0 +1,23 @@
+Exercise 1: Latihan Ulang Dasar Chapter 1-3
+Per soal latihan terdiri atas 1 chapter
+- soal1.js: soal1_templateLiterals
+- soal2.js: soal2_destructuringArrays
+- soal3.js: soal3_DestructuringObject
+- soal4.js: soal4_EnhancedObjectLiterals
+- soal5.js: soal5_GabunganDestructuringDanTemplateLiterals
+
+Exercise 2: Latihan Ulang Chapter 1-3 Kombinasi Soal
+Per soal latihan terdiri atas kombinasi 2-3 chapter
+- soal1.js:   soal1_DataMahasiswa
+- soal2.js:   soal2_DataProdukdanKategori_2
+- soal2_1.js: soal2_DataProdukdanKategori
+- soal3.js:   soal3_DataKaryawanDanDepartemen
+- soal4.js:   soal4_dataTransaksi
+- soal5.js:   soal5_DataTimdanAnggota
+
+
+List Chapter yang telah dipelajari sebelumnya:
+1. Template Literals
+2. Destructuring Objects
+3. Destructuring Arrays
+4. (jika ada) Object Literal
