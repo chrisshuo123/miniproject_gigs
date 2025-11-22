@@ -1,0 +1,11 @@
+Bagian 1:
+cd path/to/your/project
+
+Bagian 2:
+rm -rf node_modules
+rm package-lock.json
+
+Bagian 3:
+npm install
+
+TAKE NOTE: node_modules tidak ada karena di .gitignore, berhubung ukuran filenya yang besar
