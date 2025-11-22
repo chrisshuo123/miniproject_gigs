@@ -27,25 +27,26 @@ Sekumpulan mini project ES6, lanjutan dari JavaScript yang sebelumnya pernah dip
 
 #### Daftar Isi
 **1 - Template Literals**<br>
-isi<br>
+Learning to use the basics of template literals<br>
 **2.1 - Destructuring Objects**<br>
-paragraf<br>
+Learning on how to use Destructuring Objects<br>
 **2.2 - Destructuring Arrays**<br>
-paragraf<br>
+Learning how to use destructuring arrays after learning destructuring objects in point 2.1 above.<br>
 **3 - Object Literal**<br>
-Paragraf<br>
+Learn the basicsof Object Literal<br>
 **4 - Latihan Ulang Poin diatas No. 1-3**<br>
-Paragraf<br>
+An exercise that rewire the practical knowledge of point No 1-3 above by using AI to generate exercises that challenge myself<br>
 **5 - For of Loop**<br>
-Paragraf<br>
+Learn the basics of using For of Loop, eventhough we often use this regularly in most real project cases.<br>
 **6 - Classes**<br>
-Paragraf<br>
+Learning to use class extends in ES6, by using the import.<br>
+Instructions: run the ES6 JS on a file called playerTennis.js.  You can use 'Run Code' button at the top-right, or right click on the 'playerTennis.js' file, then select Run Code _(but install Code Runner Extension first)_.<br>
 **7 - Promises**<br>
-Paragraf<br>
+Understanding the usage of Promises, before learning about fetch<br>
 **8 - Fetch**<br>
-Paragraf<br>
+Learn how to fetch API<br>
 **9 - Async and Await**<br>
-Paragraf<br>
+Learn and understanding why and when to use the async await, primarily when the promise exceeds its loading time.<br>
 
 ## PHP Mini Project Portfolio
 Sekumpulan mini project tentang PHP
